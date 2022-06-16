@@ -9,7 +9,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Python', 'C++'];
+  languages  = ['JavaScript', 'Python', 'C++', 'Lua', C#];
   tools  = ["Node.JS", "Heroku", "Visual Studio Code", "Notepad++"];
 }
 ```
