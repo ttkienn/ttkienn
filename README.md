@@ -1,5 +1,5 @@
 ```js
-console.log("Hello")
+console.log("Hello World")
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
