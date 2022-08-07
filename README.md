@@ -1,17 +1,5 @@
 ```js
-import SoftwareDeveloper from 'thieutrungkien';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Thiệu Trung Kiên';
-  gender   = "Male";
-  country  = 'Viet Nam';
-  city     = 'Thái Bình';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Python', 'C++', 'Lua', 'C#'];
-  tools  = ["Node.JS", "Heroku", "Visual Studio Code", "Notepad++"];
-}
+console.log("Hello")
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
