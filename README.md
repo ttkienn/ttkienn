@@ -1,5 +1,5 @@
 ```js
-console.log("Hello World")
+console.log("I'm a boy who knows a little bit about programming!")
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
