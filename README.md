@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="http://discord.com/users/428872470163095553">
+    <img src="https://discord.c99.nl/widget/theme-3/428872470163095553.png">
+  </a>
+</p>
+
 ```js
 console.log("I'm a boy who knows a little bit about programming!")
 ```
