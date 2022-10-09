@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://discord.com/users/428872470163095553">
-    <img src="https://discord.c99.nl/widget/theme-2/428872470163095553.png">
+  <a href="https://facebook.com/ThieuTrungKien.Profile/">
+    <img src="https://i.imgur.com/oWT7Tu1.png" height="500">
   </a>
 </p>
 
