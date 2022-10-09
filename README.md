@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://facebook.com/ThieuTrungKien.Profile/">
-    <img src="https://i.imgur.com/oWT7Tu1.png" height="500">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Github%20cua%20trai%20dep!!!!!!!!">
   </a>
 </p>
 
