@@ -1,13 +1,7 @@
-<p align="center">
-  <a href="https://facebook.com/ThieuTrungKien.Profile/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=1C71FA&center=true&vCenter=true&multiline=false&lines=Github%20cua%20trai%20dep!!!!!!!!">
-  </a>
-</p>
-
-```js
-console.log("I'm a boy who knows a little bit about programming!")
-```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ThieuTrungKien.Profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <br>
+  <a href="https://github.com/TrunqKj3n/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
+  <p>One moment please...</p>
+  <br>
+  <br>
+</a>
