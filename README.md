@@ -6,7 +6,7 @@ Web Developer
 
 I am a web developer who is passionate about creating engaging websites. With expertise in both front-end and back-end development, I specialize in building user-centric web solutions that leave a lasting impact.
 
-* 🌍  I'm based in Vietnamese
+* 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [ttk.trungkien333@gmail.com](mailto:ttk.trungkien333@gmail.com)
 * 🧠  I'm learning PHP, Javascript, Python
 
