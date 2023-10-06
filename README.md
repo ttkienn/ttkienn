@@ -1,31 +1,22 @@
-Hi !My name is Thieu Trung Kien
-========================================================================================================================================
+# console.log("Hello, World!");
 
-Web Developer
--------------
+Hello there! It appears you've ventured into this realm to delve into the depths of Thiệu Trung Kiên. Whether you know me as TTK or TrunqKj3n on Facebook and Twitter!, this README is your gateway to discovering more about me.
 
-I am a web developer who is passionate about creating engaging websites. With expertise in both front-end and back-end development, I specialize in building user-centric web solutions that leave a lasting impact.
+## About Me
 
-* 🌍  I'm based in Vietnam
-* ✉️  You can contact me at [ttk.trungkien333@gmail.com](mailto:ttk.trungkien333@gmail.com)
-* 🧠  I'm learning PHP, Javascript, Python
+Web developer based in Thái Bình, Vietnam. Fluent in JavaScript, Vue, ReactJS, and Node.js. Also well-versed in AngularJS. Passionate about creative problem-solving and actively contributing to the developer community. Adaptable and always eager to learn, navigating the ever-evolving tech landscape.
 
-### Skills
+## Remarkable Projects
 
+While grandeur isn't my claim, delve into my pinned projects, a collection that encapsulates personal creations and collaborations alike. Joy emanates from crafting projects that not only bring delight to me but also contribute positively to the community.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## How You Can Contribute
 
+Certainly! You can show your support through these official funding channels:
 
-### Socials
+- [GitHub Sponsors](https://github.com/ttkienn/ttkienn)
+- [Ko-fi](ko-fi.com/thieutrungkien)
 
-<p align="left"> <a href="https://www.facebook.com/ThieuTrungKi3n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/TrunqKj3n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TrungKi62170755" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+Should you find my projects praiseworthy, bestowing stars is another splendid means to convey your gratitude. Your support holds significant value, so do not hesitate to grant stars when you deem my work deserving of recognition.
+
+[![@ttkienn Holopin board](https://holopin.me/ttkienn)](https://www.holopin.io/@ttkienn)
