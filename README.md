@@ -15,7 +15,7 @@ While grandeur isn't my claim, delve into my pinned projects, a collection that 
 Certainly! You can show your support through these official funding channels:
 
 - [GitHub Sponsors](https://github.com/ttkienn/ttkienn)
-- [Ko-fi](ko-fi.com/thieutrungkien)
+- [Ko-fi](https://ko-fi.com/thieutrungkien)
 
 Should you find my projects praiseworthy, bestowing stars is another splendid means to convey your gratitude. Your support holds significant value, so do not hesitate to grant stars when you deem my work deserving of recognition.
 
