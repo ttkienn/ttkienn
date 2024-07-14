@@ -1,27 +1,12 @@
-```js
-class ThieuTrungKien {}
+<p align='left'><samp>「</samp></p>
+<p align="center"><samp>Thieu Trung Kien</samp></p>
+<p align='right'><samp>」</samp></p>
 
-class Attributes extends ThieuTrungKien {
-    constructor() {
-        super();
-        this.contact = () => ({
-            facebook: "https://www.facebook.com/ThieuTrungKi3n",
-            email: "ttk.trungkien333@gmail.com"
-        });
-
-        this.life = () => ({
-            spokenLanguages: ['Vietnamese', 'English'],
-            age: 19
-        });
-
-        this.coding = () => ({
-            programmingLanguages: {
-                expert: ['python', 'js', 'c++'],
-                intermediate: ['go'],
-                learning: ['c#', 'asm', 'java']
-            },
-            ide: ['vscode']
-        });
-    }
-}
-```
+<div align="center">
+  <p>
+    <samp>
+    <a href="https://facebook.com/ThieuTrungKi3n">facebook</a> - 
+    <a href="https://www.youtube.com/channel/UCYNO8G3HKBQtDMKxn_7-bCw">youtube</a> - 
+    <a href="mailto:ttk.trungkien333@gmail.com">mail</a>
+    </samp>
+  </p>
